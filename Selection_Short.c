@@ -31,7 +31,7 @@ int main(){
     int A[]={56,12,34,89,55};
     int size =5;
      
-    
+    printf("\n");
     
     Selection_Short(A,size);
 
@@ -40,5 +40,6 @@ int main(){
     {
         printf(" %d",A[i]);
     }
+
     return 0;
 }
